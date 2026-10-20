@@ -1,0 +1,23 @@
+*{
+    height: 50%;
+}
+h1{
+   text-align: center;
+   color: rgb(127, 255, 212);
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(130, 138, 138);
+    text-align: center;
+
+}
+body{
+    /* background-image: linear-gradient(to bottom, red, blue, green); */
+    background-color: rgb(121, 109, 109);
+    background-image: url(sack-dollar.png); 
+    background-position-x: center;
+    background-position-y: center ;
+    background-repeat: no-repeat;
+
+}
